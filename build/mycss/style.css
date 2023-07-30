@@ -1,0 +1,21 @@
+.me_box {
+    box-sizing: border-box;
+}
+
+.myshadow:hover {
+    box-shadow: 5px 5px 10px rgb(80, 80, 80);
+}
+
+.fa {
+    margin-top: -100%;
+    color: gray;
+}
+
+.my-shadow {
+    box-shadow: 0 25px 50px 30px rgb(0 0 0 / 0.1);
+    ;
+}
+
+.my-dir {
+    direction: rtl;
+}

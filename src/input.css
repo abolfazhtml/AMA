@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+ 
+@layer components{
+     .h1-btn{@apply bg-emerald-600 rounded-md  hover:bg-emerald-500;} 
+}
